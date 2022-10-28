@@ -5,4 +5,4 @@ Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-https://fellipemanaia.github.io/curriculo_site/
+meu site: https://fellipemanaia.github.io/curriculo_site/
